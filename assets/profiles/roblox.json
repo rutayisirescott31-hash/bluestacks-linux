@@ -1,0 +1,29 @@
+{
+  "name": "Roblox",
+  "dpad": {
+    "enabled": true,
+    "center_x": 0.16,
+    "center_y": 0.76,
+    "radius": 0.08,
+    "up_key": "w",
+    "down_key": "s",
+    "left_key": "a",
+    "right_key": "d"
+  },
+  "mouse_look": {
+    "enabled": true,
+    "toggle_key": "f1",
+    "sensitivity": 1.2
+  },
+  "keys": [
+    {"key": "space", "label": "Jump", "x": 0.90, "y": 0.78, "radius": 0.04},
+    {"key": "e", "label": "Interact", "x": 0.82, "y": 0.62, "radius": 0.035},
+    {"key": "q", "label": "Tool", "x": 0.82, "y": 0.78, "radius": 0.035},
+    {"key": "shift", "label": "Sprint", "x": 0.08, "y": 0.60, "radius": 0.035},
+    {"key": "1", "label": "Slot 1", "x": 0.40, "y": 0.94, "radius": 0.03},
+    {"key": "2", "label": "Slot 2", "x": 0.46, "y": 0.94, "radius": 0.03},
+    {"key": "3", "label": "Slot 3", "x": 0.52, "y": 0.94, "radius": 0.03},
+    {"key": "4", "label": "Slot 4", "x": 0.58, "y": 0.94, "radius": 0.03},
+    {"key": "5", "label": "Slot 5", "x": 0.64, "y": 0.94, "radius": 0.03}
+  ]
+}

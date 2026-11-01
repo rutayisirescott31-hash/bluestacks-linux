@@ -1,0 +1,28 @@
+{
+  "name": "FPS Shooter / Battle Royale",
+  "dpad": {
+    "enabled": true,
+    "center_x": 0.16,
+    "center_y": 0.75,
+    "radius": 0.08,
+    "up_key": "w",
+    "down_key": "s",
+    "left_key": "a",
+    "right_key": "d"
+  },
+  "mouse_look": {
+    "enabled": true,
+    "toggle_key": "f1",
+    "sensitivity": 1.5
+  },
+  "keys": [
+    {"key": "space", "label": "Jump", "x": 0.92, "y": 0.78, "radius": 0.04},
+    {"key": "c", "label": "Crouch", "x": 0.92, "y": 0.90, "radius": 0.035},
+    {"key": "z", "label": "Prone", "x": 0.84, "y": 0.90, "radius": 0.035},
+    {"key": "r", "label": "Reload", "x": 0.80, "y": 0.60, "radius": 0.035},
+    {"key": "f", "label": "Loot", "x": 0.72, "y": 0.40, "radius": 0.035},
+    {"key": "shift", "label": "Sprint", "x": 0.16, "y": 0.58, "radius": 0.035},
+    {"key": "1", "label": "Primary", "x": 0.52, "y": 0.88, "radius": 0.035},
+    {"key": "2", "label": "Secondary", "x": 0.62, "y": 0.88, "radius": 0.035}
+  ]
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Emulator disk images and locks (too large for git, created on user machine)
+*.img
+*.qcow2
+*.lock
+*.tmp*
+snapshots/
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

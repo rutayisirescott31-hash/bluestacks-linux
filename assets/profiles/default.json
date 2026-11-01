@@ -1,0 +1,23 @@
+{
+  "name": "Default Gaming",
+  "dpad": {
+    "enabled": true,
+    "center_x": 0.16,
+    "center_y": 0.75,
+    "radius": 0.08,
+    "up_key": "w",
+    "down_key": "s",
+    "left_key": "a",
+    "right_key": "d"
+  },
+  "mouse_look": {
+    "enabled": false,
+    "toggle_key": "f1",
+    "sensitivity": 1.0
+  },
+  "keys": [
+    {"key": "space", "label": "Action", "x": 0.88, "y": 0.80, "radius": 0.04},
+    {"key": "e", "label": "Interact", "x": 0.80, "y": 0.65, "radius": 0.035},
+    {"key": "q", "label": "Back", "x": 0.80, "y": 0.80, "radius": 0.035}
+  ]
+}
